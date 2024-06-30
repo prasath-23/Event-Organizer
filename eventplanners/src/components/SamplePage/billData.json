@@ -1,0 +1,19 @@
+[
+    {
+      "billId": 1,
+      "name": "John Doe",
+      "relation": "Friend",
+      "message": "Payment for dinner",
+      "amount": 50,
+      "acc": "123456789"
+    },
+    {
+      "billId": 2,
+      "name": "Jane Smith",
+      "relation": "Family",
+      "message": "Rent",
+      "amount": 200,
+      "acc": "987654321"
+    }
+  ]
+  

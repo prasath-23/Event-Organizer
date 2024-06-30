@@ -1,0 +1,94 @@
+{
+  "2024.02.01": [
+    {
+      "title": "Event 1",
+      "description": "Description of Event 1"
+    },
+    {
+      "title": "Event 2",
+      "description": "Description of Event 2"
+    }
+  ],
+  "2024.02.05": [
+    {
+      "title": "Event 3",
+      "description": "Description of Event 3"
+    }
+  ],
+  "2024.05.26": [
+    {
+      "title": "Event 4",
+      "description": "Description of Event 4"
+    },
+    {
+      "title": "Event 5",
+      "description": "Description of Event 5"
+    },
+    {
+      "title": "Event 6",
+      "description": "Description of Event 6"
+    }
+  ],
+  "2024.02.25": [
+    {
+      "title": "Event 7",
+      "description": "Description of Event 7"
+    },
+    {
+      "title": "Event 8",
+      "description": "Description of Event 8"
+    },
+    {
+      "title": "Event 9",
+      "description": "Description of Event 9"
+    }
+  ],
+  "2024.03.05": [
+    {
+      "title": "Event 10",
+      "description": "Description of Event 10"
+    }
+  ],
+  "2024.03.10": [
+    {
+      "title": "Event 11",
+      "description": "Description of Event 11"
+    },
+    {
+      "title": "Event 12",
+      "description": "Description of Event 12"
+    }
+  ],
+  "2024.03.20": [
+    {
+      "title": "Event 13",
+      "description": "Description of Event 13"
+    },
+    {
+      "title": "Event 14",
+      "description": "Description of Event 14"
+    }
+  ],
+  "2024.03.25": [
+    {
+      "title": "Event 15",
+      "description": "Description of Event 15"
+    }
+  ],
+  "2024.04.05": [
+    {
+      "title": "Event 16",
+      "description": "Description of Event 16"
+    }
+  ],
+  "2024.04.10": [
+    {
+      "title": "Event 17",
+      "description": "Description of Event 17"
+    },
+    {
+      "title": "Event 18",
+      "description": "Description of Event 18"
+    }
+  ]
+}
